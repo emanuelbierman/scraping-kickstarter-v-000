@@ -287,9 +287,11 @@ def create_project_hash
   end
 
   # return the projects hash
-  projects
+  puts projects
 end
 ```
+
+create_project_hash
 
 We did it! Run the test suite and you should see that all of the tests are passing.
 
